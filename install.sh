@@ -13,6 +13,8 @@ FORMULAS=(
   git
   git-duet
   go
+  gpg
+  htop
   jq
   pstree
   reattach-to-user-namespace
